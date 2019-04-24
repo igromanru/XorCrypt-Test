@@ -1,0 +1,3 @@
+[submodule "XorCrypt-Test/XorCrypt"]
+	path = XorCrypt-Test/XorCrypt
+	url = git@github.com:igromanru/XorCrypt.git
